@@ -19,7 +19,7 @@
     },
     "parents_and_kids": {
         "image": "parents_and_kids.jpg",
-        "weekdays": [3]
+        "weekdays": []
     },
     "seuda_shlishit_ki_tetze": {
         "image": "seuda_shlishit_ki_tetze.jpg",
@@ -28,15 +28,15 @@
     },
     "sunday_in_kolel":{
         "image": "havurut_sundays.jpeg",
-        "weekdays": [0]
+        "weekdays": []
     },
     "wendsday_in_kolel":{
         "image": "rav_tasma.jpeg",
-        "weekdays": [3]
+        "weekdays": []
     },
     "thursdays_in_kolel":{
         "image": "rav_levental_thursdays.jpeg",
-        "weekdays": [4],
+        "weekdays": [],
         "exclude_date_range": {
             "from": "2022-11-10",
             "until": "2022-11-11"
@@ -96,5 +96,10 @@
         "image": "hebron1_0.jpg",
         "from": "2022-11-18T05:30", 
         "until": "2022-11-19T22:00"
+    },
+    "shabat-zachor":{
+        "image": "shabat-zachor.jpg",
+        "from": "2023-02-27", 
+        "until": "2023-03-03T16:00"
     }
 }
