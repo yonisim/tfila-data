@@ -100,6 +100,7 @@
     "shabat-zachor":{
         "image": "shabat-zachor.jpg",
         "from": "2023-02-27", 
-        "until": "2023-03-03T16:00"
+        "until": "2023-03-03T16:00",
+        "exposure_time_seconds": 30
     }
 }
