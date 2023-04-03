@@ -111,7 +111,7 @@
     },
     "erev-pesach":{
         "image": "erev-pesach.jpg",
-        "from": "2023-04-04T00", 
+        "from": "2023-04-04T17:00", 
         "until": "2023-04-05T12:00",
         "exposure_time_seconds": 30
     }
