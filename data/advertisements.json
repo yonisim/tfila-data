@@ -114,5 +114,17 @@
         "from": "2023-04-04T17:00", 
         "until": "2023-04-05T12:00",
         "exposure_time_seconds": 30
+    },
+    "purim_1":{
+        "image": "purim_1.jpg",
+        "from": "2024-03-21T17:00", 
+        "until": "2024-03-23T17:00",
+        "exposure_time_seconds": 60
+    },
+    "purim_2":{
+        "image": "purim_2.jpg",
+        "from": "2024-03-21T17:00", 
+        "until": "2024-03-24T19:00",
+        "exposure_time_seconds": 60
     }
 }
