@@ -110,10 +110,10 @@
         "exposure_time_seconds": 30
     },
     "erev-pesach":{
-        "image": "erev-pesach.jpg",
-        "from": "2023-04-04T17:00", 
-        "until": "2023-04-05T12:00",
-        "exposure_time_seconds": 30
+        "image": "pesach_eve_times_tashpad.jpg",
+        "from": "2024-04-22T08:00", 
+        "until": "2024-04-22T17:00",
+        "exposure_time_seconds": 60
     },
     "purim_1":{
         "image": "purim_1.jpg",
