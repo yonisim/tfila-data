@@ -126,5 +126,11 @@
         "from": "2024-03-21T17:00", 
         "until": "2024-03-24T19:00",
         "exposure_time_seconds": 60
+    },
+    "hoshana":{
+        "image": "hoshana.jpg",
+        "from": "2024-10-21T10:00", 
+        "until": "2024-10-22T22:00",
+        "exposure_time_seconds": 60
     }
 }
