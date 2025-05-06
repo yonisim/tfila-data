@@ -137,6 +137,6 @@
         "image": "campaign.jpg",
         "from": "2025-05-05",
         "until": "2025-05-09",
-        "exposure_time_seconds": 20
+        "exposure_time_seconds": 30
     }
 }
