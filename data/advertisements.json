@@ -148,7 +148,7 @@
     "purim_tashpav": {
         "image": "purim_tashpav.jpg",
         "from": "2026-02-26T10:00",
-        "until": "2026-03-03T22:00",
+        "until": "2026-03-01T22:00",
         "exposure_time_seconds": 60
     }
 }
