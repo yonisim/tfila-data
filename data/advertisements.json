@@ -150,5 +150,11 @@
         "from": "2026-02-26T10:00",
         "until": "2026-03-01T22:00",
         "exposure_time_seconds": 60
+    },
+    "zachor_tashpav": {
+        "image": "zachor-tashpav.JPG",
+        "from": "2026-02-26T10:00",
+        "until": "2026-03-27T22:00",
+        "exposure_time_seconds": 60
     }
 }
