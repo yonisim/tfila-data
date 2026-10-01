@@ -73,6 +73,11 @@
         "from": "2022-10-10", 
         "until": "2022-10-13T21:00"
     },
+    "hoshana_raba":{
+        "image": "hoshana-raba.jpg",
+        "from": "2026-10-01T16:01",
+        "until": "2026-10-01T23:10"
+    },
     "mashiv_haruach":{
         "image": "mashiv.jpg",
         "until": "2022-10-31T16:00"
